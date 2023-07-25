@@ -55,4 +55,4 @@ The gross income percentage remains consistent across all products, and digital 
 
 In summary, the analysis empowers the supermarket company to make data-driven decisions to optimize product offerings, distribution strategies, and revenue generation across different branches. These insights can reinforce the company's market position, enhance customer satisfaction, and drive sustainable growth in the highly competitive retail industry.
 
-Feel free to customize and enhance this README.md file as per your preferences and include any additional information you find relevant. Happy coding and exploring the data!
+Feel free to customize and enhance this Project as per your preferences and include any additional information you find relevant. Happy coding and exploring the data!
